@@ -10,6 +10,7 @@ Firstly, clone your project.
 ## Usage
 
 Open in Visual Studio Code after you clone your project.
+
 For Linux;
 > cd KodluyoruzFirstRepo
 > code .
@@ -24,4 +25,4 @@ Pull requests are welcome. Before requesting a major change, please pull up a to
 
 ### Project Logo
 
-![logo](./kodluyoruzfirstrepo/logo.jpg)
+![logo](../kodluyoruzfirstrepo/logo.jpg)
